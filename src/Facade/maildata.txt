@@ -1,0 +1,4 @@
+hyuki@hyuki.com=hiroshi Yuki
+han@han.com=sato
+tom@tom.com=Tomua
+mam@mam.com=Mamro
